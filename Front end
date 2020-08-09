@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Counting the words in file</title>
+</head>
+<body>
+	<div class="container">
+		<h1>Welcome !!!</h1>
+    <div class="form-group">
+      <label for="uname">Enter the number</label>
+      <input type="text" class="form-control" id="uname" placeholder="Enter the number" name="uname" required>
+      <div class="valid-feedback">Valid.</div>
+      <div class="invalid-feedback">Please fill out this field.</div>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>
+</body>
+</html>
